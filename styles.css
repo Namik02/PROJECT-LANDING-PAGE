@@ -62,6 +62,7 @@ a {
     
 
 }
+
 .con2 .box{
     display: flex;
     gap: 24px;
@@ -83,3 +84,35 @@ a {
 
 }
 
+
+
+.con3 {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 84px;
+    
+}
+
+.line4 {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.line5 {
+    font-weight: bolder;
+    
+}
+
+
+.con4 {
+
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
