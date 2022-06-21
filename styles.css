@@ -67,6 +67,7 @@ a {
     align-items: center;
     
     margin: 32px;
+    gap: 24px;
 
 }
 
@@ -88,6 +89,7 @@ a {
 .quadimg {
     width: 150px;
     height: auto;
+    border-radius: 25px;
 
 }
 
@@ -118,10 +120,12 @@ a {
     color: #f9faf8;
     background-color: #3882f6;
     margin: 64px;
+    border-radius: 8px;
 
     display: flex;
     justify-content: space-between;
     padding: 32px;
+
 
 }
 .con4 .box {
